@@ -10,19 +10,19 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-* Login Page
+#### Login Page
 ![Image of Login Page](https://github.com/JayhawkChief/liftoff-assignments/blob/master/P3-Project_Planning/Login%20Page.png)
 
-* Public Room
+#### Public Room
 ![Image of Public Room](https://github.com/JayhawkChief/liftoff-assignments/blob/master/P3-Project_Planning/Home-PublicRoom.png)
 
-* Reminders
+#### Reminders
 ![Image of Reminders](https://github.com/JayhawkChief/liftoff-assignments/blob/master/P3-Project_Planning/Reminders.png)
 
-* Private Room
+#### Private Room
 ![Image of Private Room](https://github.com/JayhawkChief/liftoff-assignments/blob/master/P3-Project_Planning/Inbox-PrivateRoom.png)
 
-* Settings
+#### Settings
 ![Image of Settings](https://github.com/JayhawkChief/liftoff-assignments/blob/master/P3-Project_Planning/Settings.png)
 
 
